@@ -1,2 +1,2 @@
 # Firmino-Esquadrias
-Projeto pessoal feito com base na empresa de um amigo.
+Projeto pessoal feito com base na empresa de Esquadrias um amigo.
