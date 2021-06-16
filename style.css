@@ -1,0 +1,155 @@
+* {
+    font-family: 'Poppins','Roboto Mono', monospace, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+ nav p {
+    color: white;
+    float: right;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #007bff;
+}
+
+
+
+.tituloprincipal {
+    top : 30%;
+    color: black;
+    text-align: center;
+    font-size: large;
+    font-weight: 900;
+}
+
+.tituloprincipal h1 {
+    font-size: 50px;
+}
+
+.botao {
+    font-size: 20px;
+}
+
+.back {
+    width: 100%;
+    height: 550px;
+    margin-top: 85px;
+    margin-bottom: 50px;
+    opacity: 0.5;
+    letter-spacing: 0.5em;
+}
+
+.titulo {
+    text-align: center;
+    border-bottom: 0.8px solid gray;
+    font-size: 45px;
+}
+
+.sobreempresa {
+    margin-bottom: 60px;
+}
+
+.sobreimg {
+    height: 100%;
+    width: 100%;
+}
+
+.imgsobre {
+    height: 300px;
+}    
+
+.servicos {
+   margin-top: 80px;
+}
+
+
+.servicos h2 {
+    font-size: 30px;
+}
+
+.servicos p {
+    font-size: 15px;
+}
+
+.imgservicos {
+    height: 300px;
+    width: 500px;
+}
+
+.depoimentos h2 {
+    font-size: 30px;
+}
+
+.depoimentos p {
+    font-size: 15px;
+}
+
+.imgs2 {
+    margin-top: 180px;
+}
+
+.fundo {
+    background: #d3d3d3;
+    margin-right: 30px;
+    margin-bottom: 25px;
+}
+
+
+.nomes {
+    font-weight: bold;
+}
+
+
+footer {
+    background: black;
+    padding : 50px 0 20px 0
+}
+
+
+footer h4 {
+    color: #fff;
+    font-size: 0.9em;
+    text-transform: uppercase;
+}
+
+
+footer .navbar-nav a {
+    color: white;
+    font-size: 0.8em;
+    margin-left: 5px;
+}
+
+
+footer .navbar-nav a:hover {
+    color: #9bf0e1;
+    font-size: 0.8em;
+    text-decoration: none;
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer ul li {
+    list-style: none;
+    float: right;
+    margin : 5px;
+}
+
+
+footer  i  {
+    color: white;
+    padding: 5px;
+}
+
+footer p  {
+    color: white;
+    margin-top: 10px;
+}
